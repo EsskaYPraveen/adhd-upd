@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+redis
+langchain>=0.1.0
+langchain-community
+huggingface_hub         
+tiktoken       
